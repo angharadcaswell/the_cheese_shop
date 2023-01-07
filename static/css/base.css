@@ -6,13 +6,14 @@ body {
     background: url('/media/main_cheese_image.png') no-repeat center center fixed;
     background-size: cover;
     height: calc(100vh - 164px);
-    color: #555;
+    color: #FFF;
     font-family: 'Inter';
 }
 
-#topnav {
+#topnav, .navbar {
     background: #361D2E !important;
 }
+
 
 /* from Bulma */
 .icon {
