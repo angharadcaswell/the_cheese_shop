@@ -29,6 +29,7 @@ body {
     font-family: 'Imprima';
 }
 
+
 .main-logo-link {
     width: fit-content;
 }
@@ -70,7 +71,28 @@ body {
 }
 
 #special-banner {
-    background-color: #CBC0AD;
+    background-color: #E1B07E;
+}
+
+.overlay {
+	height: 100%;
+	width: 100%;
+	top: 0;
+	left: 0;
+	position: fixed;
+	background: #CBC0AD;
+	z-index: -1;
+}
+
+.product-name {
+    background-color: #361D2E;
+    color: white;
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+
+.card {
+    background: none;
 }
 
 /* -------------------------------- Media Queries */
