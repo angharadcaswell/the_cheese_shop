@@ -17,9 +17,9 @@
                 Cheese
             </a>
             <div class="dropdown-menu border-0" aria-labelledby="cheese-link">
-                <a href="" class="dropdown-item">Soft</a>
-                <a href="" class="dropdown-item">Hard</a>
-                <a href="" class="dropdown-item">All Cheeses</a>
+                <a href="{% url 'products' %}?category=soft_cheese" class="dropdown-item">Soft</a>
+                <a href="{% url 'products' %}?category=hard_cheese" class="dropdown-item">Hard</a>
+                <a href="{% url 'products' %}?category=soft_cheese,hard_cheese" class="dropdown-item">All Cheeses</a>
             </div>
         </li>
 
@@ -28,9 +28,9 @@
                 Condiments
             </a>
             <div class="dropdown-menu border-0" aria-labelledby="condiments-link">
-                <a href="" class="dropdown-item">Crackers</a>
-                <a href="" class="dropdown-item">Chutneys</a>
-                <a href="" class="dropdown-item">All Condiments</a>
+                <a href="{% url 'products' %}?category=crackers" class="dropdown-item">Crackers</a>
+                <a href="{% url 'products' %}?category=chutneys" class="dropdown-item">Chutneys</a>
+                <a href="{% url 'products' %}?category=crackers,chutney" class="dropdown-item">All Condiments</a>
             </div>
         </li>
 
@@ -39,9 +39,9 @@
                 Accessories
             </a>
             <div class="dropdown-menu border-0" aria-labelledby="accessories-link">
-                <a href="" class="dropdown-item">Cheese knifes</a>
-                <a href="" class="dropdown-item">Cheese boards</a>
-                <a href="" class="dropdown-item">All Accessories</a>
+                <a href="{% url 'products' %}?category=cheese_knife" class="dropdown-item">Cheese knifes</a>
+                <a href="{% url 'products' %}?category=cheese_board" class="dropdown-item">Cheese boards</a>
+                <a href="{% url 'products' %}?category=cheese_knife,cheese_board" class="dropdown-item">All Accessories</a>
             </div>
         </li>
     </ul>
