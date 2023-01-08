@@ -48,6 +48,17 @@ body {
     min-width: 260px;
 }
 
+.details-button{
+    background: #E1B07E;
+    color: black;
+    margin: auto;
+}
+
+.details-row {
+    background: #E1B07E;
+    margin-top: 5px;
+}
+
 .btn-black {
     background: black;
     color: white;
