@@ -29,21 +29,7 @@
 ### Shop admin:
  
 
-
-## 2.2 Structure
-
-### Models
-![shop Model](/readmeimages/models.png)
-
-### Data Schema
-
-
-
-### Site Map
-![Site map](/readmeimages/Sitemap.png)
-
-
-## 2.3 Wireframes (low-fidelity)
+## 2.2 Wireframes
 ### Homepage/Desktop :
 ![Homepage](/readmeimages/Homepage_desktop.png)
 
@@ -63,54 +49,66 @@ As seen in the image below, I used a kanban board to track the progress of my ti
 2. Set up base html/css and create Home app
 3. 
 
+# 4. Structure
+
+### Models
+![shop Model](/readmeimages/models.png)
+
+### Data Schema
 
 
-# 4. Features
 
-## 4.1 All features
+### Site Map
+![Site map](/readmeimages/Sitemap.png)
+
+# 5. Features
+
+## 5.1 All features
 [Current Features](features.md)
 
-## 4.2 Features to implement:
+## 5.2 Features to implement:
 
 1. 
 2. 
 
 
-# 5. Technologies used 
-* [Python](https://en.wikipedia.org/wiki/Python_(programming_language)) - Content and structure
+# 6. Technologies used 
+* [Python 3.2](https://en.wikipedia.org/wiki/Python_(programming_language)) - Content and structure
 * [Heroku](https://id.heroku.com/login) - Host
-* [Gitpod](https://www.gitpod.io/) - Coding workspace
-* [Github/ Github pages](https://github.com/)- Commit my code
+* [Gitpod](https://www.gitpod.io/) - IDE
+* [Github/ Github pages](https://github.com/)- Code repositary
 * [Am I responsive?](http://ami.responsivedesign.is/#)- To see display the website as mock ups  
-* [Django Alauth](https://django-allauth.readthedocs.io/en/latest/installation.html)
-message. 
+* [Django Alauth](https://django-allauth.readthedocs.io/en/latest/installation.html)- User athentication 
+* [Bootstrap4](https://getbootstrap.com/) - UI framework
+* [Font Awesome](https://fontawesome.com/) - Free Icons 
+* [Figma](https://www.figma.com/) - Wireframes design
 
 
-# 6. Testing  
+# 7. Testing  
 The site was tested in Gitpod terminal and Heroku by users and myself on all browsers. The site was also peer reviewed by the Code Institute community. 
 
-## 6.1 User testing:
+## 7.1 User testing:
 
 [User Stories Tested](userstories.md)
 
-## 6.2 Bugs:
+## 7.2 Bugs:
 These significant bugs were found during user testing and during the build process. 
 
 
-## 6.3 Code Validation
+## 7.3 Code Validation
 [Code Validation](codevalidation.md)
 
-## 6.4 Performance testing
+## 7.4 Performance testing
 [Lighthouse](performance.md)
 
 
 
 
-# 7. Deployment
+# 8. Deployment
 
 
-# 8. Credits
-- Free images: [free image website](https://www.pexels.com/search/surfing/?orientation=landscape)
+# 9. Credits
+- Pxhere: Free images [free image website](https://pxhere.com)
 - Stackoverflow: [Stackoverflow](https://stackoverflow.com/)
 
 
