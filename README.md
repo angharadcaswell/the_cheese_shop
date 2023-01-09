@@ -16,7 +16,7 @@
 
 
 # 1. Project Goals
-
+1. Build a site for customers to be able to purchase cheeses and cheese accesories from. 
 
 
 # 2. User Experience
@@ -34,11 +34,29 @@
 ![Homepage](/readmeimages/Homepage_desktop.png)
 
 ## 2.4 Design
- 
+
+### 2.4.1 Colour
+I started the colour design for the site with a deep purple to represent the grapes and wine that are so often paired with cheese. I then used [Coolors](https://coolors.co/) to generate a colour pallete based on the deep purple. I particularly liked this set of colours because they are similar to the colour of cheeses and also some other neutral colours. 
+
+I also checked the contrast of the foreground and background colours based on this pallete passed the standards of [WebAIM.](https://webaim.org/resources/contrastchecker/)
+
+![color](readmeimages/colors.png)
+
+### 2.4.2 Logo
+I decided upon a very simple logo so customers would know exactly what the site did. It is also a simple design so it can be used with various colors and edited for future marketing if needed. 
+
+![logo](/readmeimages/mobile-logo.png)
+
+### 2.4.3 Font family 
+
+Similar to the colour palette and logo I wanted to keep thing simple with the font so that the design wouldn't distract from the content of the site. 
+
+1. Title: Imprima
+2. Body: Inter
 
 # 3. Project Sprints
 
-I used an agile approach to this project by following sprints. The sprints were broken down into issues with were logged on the Github project board. [View here](https://github.com/users/angharadcaswell/projects/1/views/1)
+I used an agile approach to this project by following sprints. The sprints were broken down into issues which were logged on the Github project board. [View here](https://github.com/users/angharadcaswell/projects/1/views/1)
 
 As seen in the image below, I used a kanban board to track the progress of my tickets. 
 
@@ -47,7 +65,15 @@ As seen in the image below, I used a kanban board to track the progress of my ti
 ## Sprints:
 1. Set up Python, database
 2. Set up base html/css and create Home app
-3. 
+3. Set up Authorisation for the site
+4. Set up Base template
+5. Set up home page
+6. Create product App and views for filtering and searching. 
+7. Create bag app and add CRUD functionality.
+8. Build Check out app and Stripe
+9. Edit admin panel 
+10. Deploy
+11. Marketing initative. 
 
 # 4. Structure
 
@@ -82,6 +108,8 @@ As seen in the image below, I used a kanban board to track the progress of my ti
 * [Bootstrap4](https://getbootstrap.com/) - UI framework
 * [Font Awesome](https://fontawesome.com/) - Free Icons 
 * [Figma](https://www.figma.com/) - Wireframes design
+* [WebAIM.](https://webaim.org/resources/contrastchecker/) - Check color contrast 
+* [Coolors](https://coolors.co/)- To create color palette. 
 
 
 # 7. Testing  
