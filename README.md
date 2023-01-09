@@ -111,6 +111,7 @@ As seen in the image below, I used a kanban board to track the progress of my ti
 * [WebAIM.](https://webaim.org/resources/contrastchecker/) - Check color contrast 
 * [Coolors](https://coolors.co/)- To create color palette. 
 * [Crispy Forms](https://django-crispy-forms.readthedocs.io/en/latest/) - forms
+* [Stripe](https://stripe.com/gb) - Payments
 
 
 # 7. Testing  
