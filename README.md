@@ -22,11 +22,11 @@ Build a site for customers to be able to purchase cheese and cheese accesories f
 
 # 2. Project Sprints
 
-I used an agile approach to this project by following sprints. The sprints were broken down into issues which were logged on the Github project board. [View here](https://github.com/users/angharadcaswell/projects/1/views/1)
+I used an agile approach to this project by following sprints. The sprints were broken down into issues which were logged on the Github project board. [View here](https://github.com/users/angharadcaswell/projects/2/views/1)
 
 As seen in the image below, I used a kanban board to track the progress of my tickets. 
 
-![Project board](/readmeimages/project_board.png)
+![Project board](/readmeimages/cheese_project_board.png)
 
 ## Sprints:
 1. Set up Python, database
