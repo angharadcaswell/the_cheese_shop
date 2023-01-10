@@ -140,6 +140,7 @@ These significant bugs were found during user testing and during the build proce
 # 9. Credits
 - Pxhere: Free images [free image website](https://pxhere.com)
 - Stackoverflow: [Stackoverflow](https://stackoverflow.com/)
+- Wikipedia: content for product description [Wikipedia](https://en.wikipedia.org/wiki/Main_Page)
 
 
 ## Acknowledgments: 
