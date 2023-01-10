@@ -155,6 +155,51 @@ These significant bugs were found during user testing and during the build proce
 
 # 8. Deployment
 
+## Github:
+
+To start the deployment process you need to create a new repository.
+
+1. Log into Github
+2. Open [Code Institute's template](https://github.com/Code-Institute-Org/python-essentials-template)
+3. Click the "Use This Template", then the "Create new repository" and add repository name.
+
+### Forking:
+1. Visit [the_cheese_shop](https://github.com/angharadcaswell/the_cheese_shop) repository.
+2. Click the "Fork" button in the top right hand corner.
+3. Click the "Create Fork" button
+
+### Clone:
+1. Visit [the_cheese_shop](https://github.com/angharadcaswell/the_cheese_shop) repository.
+2. Press the arrow on the Code button
+3. Copy the link that is shown in the drop-down and select the directory in Gitpod.
+4. Use the command'git clone' in the terminal and paste the link you copied.
+5. View the requirements.txt file and install all of the packages using the CLI *pip install -r requirements.txt*
+
+## Gmail SMTP:
+Gmail SMTP has been used to send order confirmations and user contact emails.
+1. To use this configuration, add the following code to your settings.py file.
+![email ](/readmeimages/email_setup.png)
+
+## Stripe:
+I used Stripe to take test payments on the deployed site. 
+1. Create a new Stripe account.
+2. Follow the documentation on [how to set up Stripe](https://stripe.com/docs).
+3. You can test your checkout app using the following test card details:
+
+| Card number           | MM/YY | CVC | Postcode |
+| ----------------------| ----- | ----| ---------|
+| 4242 4242 4242 4242   | 42/42 | 424 | 42424    |
+
+
+## Amazon Web Services (AWS) Storage:
+All static and media files are stored with AWS S3.I have created a bucket, user group and user that can access this site and the relevant files.
+1. Add the following to your setting.py file:
+
+![AWS](/readmeimages/aws.png)
+
+
+##
+
 
 # 9. Credits
 - Pxhere: Free images [free image website](https://pxhere.com)
