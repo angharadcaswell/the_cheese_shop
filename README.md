@@ -45,6 +45,7 @@ As seen in the image below, I used a kanban board to track the progress of my ti
 # 3. User Experience
 
 ## 3.1 User Stories 
+![User Stories](/readmeimages/user_stories.png)
  
 
 ## 3.2 Wireframes
