@@ -10,10 +10,11 @@
 3. UX & UI
 4. Structure
 5. Features
-6. Technologies used 
-7. Testing
-8. Deployment
-9. Acknowledgments 
+6. Marketing & SEO
+7. Technologies used 
+8. Testing
+9. Deployment
+10. Acknowledgments 
 
 
 # 1. Project Goals
