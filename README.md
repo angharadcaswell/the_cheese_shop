@@ -5,16 +5,16 @@
 
 # Table of Contents:
 
-1. Project Goals
-2. Project Sprints
-3. UX & UI
-4. Structure
-5. Features
-6. Marketing & SEO
-7. Technologies used 
-8. Testing
-9. Deployment
-10. Acknowledgments 
+1. [Project Goals](#1-project-goals)
+2. [Project Sprints](#2-project-sprints)
+3. [UX & UI](#3-user-experience)
+4. [Structure](#4-structure)
+5. [Features](#5-features)
+6. [Marketing & SEO](#6-marketing--seo)
+7. [Technologies used ](#7-technologies-used)
+8. [Testing](#8-testing)
+9. [Deployment](#9-deployment)
+10. [Acknowledgments](#acknowledgments)
 
 
 # 1. Project Goals
@@ -94,8 +94,15 @@ Similar to the colour palette and logo I wanted to keep thing simple with the fo
 1. 
 2. 
 
+# 6. Marketing & SEO
 
-# 6. Technologies used 
+## 6.1 Keyword Research:
+I started this process by thinking about the general topics of this site. I then compiled a list of keywords and assessed their relevance, authoritativeness and keyword volume. I used [word tracker](https://www.wordtracker.com/) and Google search to make these assesments.
+
+
+
+
+# 7. Technologies used 
 * [Python 3.2](https://en.wikipedia.org/wiki/Python_(programming_language)) - Content and structure
 * [Heroku](https://id.heroku.com/login) - Host
 * [Gitpod](https://www.gitpod.io/) - IDE
@@ -116,16 +123,16 @@ Similar to the colour palette and logo I wanted to keep thing simple with the fo
 * [Gunicorn](https://gunicorn.org/)- server to run Django on Heroku.
 
 
-# 7. Testing  
+# 8. Testing  
 The site was tested in Gitpod terminal and Heroku by users and myself on all browsers. The site was also peer reviewed by the Code Institute community. 
 
-## 7.1 User testing:
+## 8.1 User testing:
 I tested the deployed site with several users. I asked each user to complete the following task, tell me how they did it and score it out of 5 for 
 
 
 [User Stories Tested](userstories.md)
 
-## 7.2 Bugs:
+## 8.2 Bugs:
 These significant bugs were found during user testing and during the build process. 
 
 ### 1. The logo was not showing in the header on any pages of the deployed site
@@ -140,16 +147,16 @@ These significant bugs were found during user testing and during the build proce
 
 
 
-## 7.3 Code Validation
+## 8.3 Code Validation
 [Code Validation](codevalidation.md)
 
-## 7.4 Performance testing
+## 8.4 Performance testing
 [Lighthouse](performance.md)
 
 
 
 
-# 8. Deployment
+# 9. Deployment
 
 ## Github:
 
@@ -255,7 +262,7 @@ In GitPod:
 2. Settings -> Config Vars -> Delete environment variable : DISABLE_COLLECTSTATIC
 3. Deploy : Click on deploy branch
 
-# 9. Credits
+# 10. Credits
 - Pxhere: Free images [free image website](https://pxhere.com)
 - Stackoverflow: [Stackoverflow](https://stackoverflow.com/)
 - Wikipedia: content for product description [Wikipedia](https://en.wikipedia.org/wiki/Main_Page)
