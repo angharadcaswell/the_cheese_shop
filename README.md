@@ -112,6 +112,8 @@ As seen in the image below, I used a kanban board to track the progress of my ti
 * [Coolors](https://coolors.co/)- To create color palette. 
 * [Crispy Forms](https://django-crispy-forms.readthedocs.io/en/latest/) - forms
 * [Stripe](https://stripe.com/gb) - Payments
+* [ElephantSQL](https://www.elephantsql.com/) - Database
+* [Psycopg2](https://pypi.org/project/psycopg2/)- Supports connection to DB
 
 
 # 7. Testing  
