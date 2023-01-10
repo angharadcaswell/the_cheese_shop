@@ -1,7 +1,7 @@
 # The Cheese Shop
-![Mock up of home]()
+![Mock up of home](/readmeimages/home.png)
 
-[Link to LIVE shop]()
+[Link to LIVE shop](https://the-cheese-shop-1.herokuapp.com/)
 
 # Table of Contents:
 
@@ -44,11 +44,6 @@ As seen in the image below, I used a kanban board to track the progress of my ti
 # 3. User Experience
 
 ## 3.1 User Stories 
-
-### Customer:
-
-
-### Shop admin:
  
 
 ## 3.2 Wireframes
@@ -175,6 +170,27 @@ To start the deployment process you need to create a new repository.
 4. Use the command'git clone' in the terminal and paste the link you copied.
 5. View the requirements.txt file and install all of the packages using the CLI *pip install -r requirements.txt*
 
+### Elephant SQL:
+
+1. Visit [elephantsql.com](elephantsql.com) and click 'Get a managed database today'. 
+2. Choose free Tiny Turtle plan.
+3. Select “Log in with GitHub” and authorize ElephantSQL.
+4. In the Create new team form:
+- Add a your own name as team name
+- Read and agree to the Terms of Service.
+- Select Yes for GDPR.
+- Provide your email address.
+- Click “Create Team”.
+
+5. Go to dashboard, and click "Create New Instance".
+6. Set up your plan:
+- Add project name 
+- Select the Tiny Turtleplan.
+- Ignore Tags field blank.
+- Click "Review" and "Create Instance".
+7. Add your data through the admin panel.
+
+
 ## Gmail SMTP:
 Gmail SMTP has been used to send order confirmations and user contact emails.
 1. To use this configuration, add the following code to your settings.py file.
@@ -198,8 +214,45 @@ All static and media files are stored with AWS S3.I have created a bucket, user 
 ![AWS](/readmeimages/aws.png)
 
 
-##
+## Heroku:
+I followed these useful [instructions](https://codeinstitute.s3.amazonaws.com/fst/Django%20Blog%20Cheat%20Sheet%20v1.pdf) by Code Institute.
 
+1. Log in or create an account with Heroku at https://heroku.com.
+
+2. From the Heroku dashboard, click the Create new app button.
+
+3. On the Create New App page, enter a unique name for the application and select the region closest to you. Then click Create app.
+
+4. Open your app page -> Settings -> "Reveal Config Vars" and add the following:
+- **DISABLE_COLLECTSTATIC** 
+- value = 1 *Remove this when releasing for Production.*
+- **SECRET_KEY**
+- value = use [Djecrety](https://djecrety.ir/) to generate a random secret key.
+- **DATABASE_URL**
+- value = ElephantSQL database
+
+5. Update settings.py:
+- DATABASES = {'default': dj_database_url.parse(os.environ.get('DATABASE_URL'))}
+- SECRET_KEY = os.environ.get('SECRET_KEY')
+
+6. In Gitpod,run the commands:
+- *python3 manage.py migrate*
+- *pip freeze > requirements.txt*
+- commit and push
+
+
+7. In order to be able to run the application on localhost, add SECRET_KEY and DATABASE_URL and their values to env.py
+
+8. Connect GitHub Repo to Heroku App
+- Dashboard -> select heroku app -> deploy tab -> connect with github -> deploy
+- you can choose to set up automatic deployment.
+
+## Before you deploy:
+In GitPod:
+
+1. Set DEBUG flag to False in settings.py
+2. Settings -> Config Vars -> Delete environment variable : DISABLE_COLLECTSTATIC
+3. Deploy : Click on deploy branch
 
 # 9. Credits
 - Pxhere: Free images [free image website](https://pxhere.com)
