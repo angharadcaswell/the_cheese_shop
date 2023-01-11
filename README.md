@@ -74,16 +74,12 @@ Similar to the colour palette and logo I wanted to keep thing simple with the fo
 2. Body: Inter
 
 # 4. Structure
-
-### Models
-![shop Model](/readmeimages/models.png)
-
 ### Data Schema
 
 
 
 ### Site Map
-![Site map](/readmeimages/Sitemap.png)
+![Site map](/readmeimages/site_map.png)
 
 # 5. Features
 
