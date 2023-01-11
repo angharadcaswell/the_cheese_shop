@@ -267,7 +267,9 @@ In GitPod:
 - Pxhere: Free images [free image website](https://pxhere.com)
 - Stackoverflow: [Stackoverflow](https://stackoverflow.com/)
 - Wikipedia: content for product description [Wikipedia](https://en.wikipedia.org/wiki/Main_Page)
+- Code Institute: This project was based on the Boutique Ado project. [Code Institute](https://codeinstitute.net/)
 
 
 ## Acknowledgments: 
 * [Code Institute](https://codeinstitute.net/) student support, slack community and tutorials. 
+* In particular, I would like to thank Rebecca and Oisin at tutor support. 
