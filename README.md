@@ -92,8 +92,8 @@ Similar to the colour palette and logo I wanted to keep thing simple with the fo
 
 ## 5.2 Features to implement:
 
-1. 
-2. 
+1. Rate cheeses functionality 
+2. Social logins
 
 # 6. Marketing & SEO
 

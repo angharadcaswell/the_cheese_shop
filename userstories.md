@@ -2,7 +2,21 @@
 
 ![user stories](/readmeimages/user_stories.png)
 
-## User story 6:
+## User Story 1:
+![sign up page](/readmeimages/signuppage.png)
+### Users can register an account with this easy form to fill out. 
+
+## User Story 2 & 4:
+![log in](/readmeimages/loginpage.png)
+![log out](/readmeimages/signoutpage.png)
+## Log in and log out with ease. If you log in as a super user, then you can access the admin panel.
+
+## User Story 3:
+![password reset](/readmeimages/passwordreset.png)
+## Password reset
+
+
+## User Story 6:
 ![fitler](/readmeimages/filter.png)
 ![sort](/readmeimages/sort.png)
 ### All products can be filtered and sorted by category, prices, rating. 
@@ -47,6 +61,9 @@
 ![navigation](/readmeimages/nav-bar.png)
 ![Up button](/readmeimages/up-button.png)
 ### Navigation is made easy with the navigation bar and return to the top button. 
+
+# User Story 15:
+![responsive design](/readmeimages/responsivedesign.png)
 
 # User Stories 17 & 18:
 ![bag](/readmeimages/bag_view.png)

@@ -97,3 +97,16 @@
 - Delivery address
 - Costs
 - Confirmation of payment
+
+# Profile page
+![Profile page](/readmeimages/profile_page.png)
+
+## Includes:
+- Ability to edit profile page
+- View profile information
+- View purchase history
+
+# Register, log in and Log out
+![ Sign up](/readmeimages/signuppage.png)
+![log in](/readmeimages/loginpage.png)
+![log out](/readmeimages/signoutpage.png)
