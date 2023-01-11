@@ -64,3 +64,36 @@
 - Form to edit name, price, rating, description category, image
 - The form will contain prefilled data to save the user time.
 - Notification that it has been edited successfully.
+
+# Delete Products:
+![delete products](/readmeimages/delete_prod.png)
+
+## Shopping Bag:
+![bag](/readmeimages/bag_view.png)
+## Includes:
+- List of items
+- Subtotals
+- Functionality to edit and delete items
+- Button to checkout
+- SKU number
+- Reminder of how much they need to spend to get free delivery. 
+- Option to continue shopping
+
+## Check out:
+![check out](/readmeimages/checkout.png)
+
+## Includes:
+- Form to fill out payment details
+- Form to fill out delivery details
+- Summary of bag 
+- Option to adjust bag
+
+## Check out confirmation and email:
+![check out conf](/readmeimages/checkoutconf.png)
+![conf email](/readmeimages/conf_email.png)
+
+## Includes:
+- Details of order
+- Delivery address
+- Costs
+- Confirmation of payment
