@@ -75,7 +75,7 @@ Similar to the colour palette and logo I wanted to keep thing simple with the fo
 
 # 4. Structure
 ### Data Schema
-
+![Data Schema](/readmeimages/data_schema.png)
 
 
 ### Site Map
