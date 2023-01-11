@@ -49,8 +49,24 @@ As seen in the image below, I used a kanban board to track the progress of my ti
  
 
 ## 3.2 Wireframes
-### Homepage/Desktop :
-![Homepage](/readmeimages/Homepage_desktop.png)
+**The final design may have changed slightly**
+### Homepage (Desktop/Mobile):
+![Homepage](/readmeimages/homepage.png)
+
+### All Products (Desktop/Mobile):
+![All products](/readmeimages/allproducts.png)
+
+### Product View (Desktop/Mobile):
+![product view](/readmeimages/productview.png)
+
+### Shopping Bag (Desktop/Mobile):
+![shopping bag view](/readmeimages/shoppingbagwireframe.png)
+
+### Profile View (Desktop/Mobile):
+![profile view](/readmeimages/profileview.png)
+
+### Product admin (Desktop/Mobile):
+![product admin](/readmeimages/productadmin.png)
 
 ## 3.3 Design
 
