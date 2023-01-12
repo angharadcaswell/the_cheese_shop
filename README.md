@@ -156,12 +156,15 @@ A Robots.txt file was also created to tell search engines which files they shoul
 
 If this was to be turned into a real world site, I would register the site map to Google Search Console. 
 
-## Social Media 
+## Social Media:
 Facebook is the most used social media app and is free, so it was a great choice to gain a greater reach for The Cheese Shop. 
 
 ![facebook page](/readmeimages/cheesefacebook.png)
 ![first post](/readmeimages/first_post.png)
 
+## Mail Chimp:
+I have added a sign up form using Mail Chimp so that shoppers can sign up to recieve The Cheese Shop newsletter.
+![mail chimp](/readmeimages/mail_chimp.png)
 
 
 
@@ -185,6 +188,7 @@ Facebook is the most used social media app and is free, so it was a great choice
 * [AWS](https://aws.amazon.com/)- media and static host
 * [Bulma](https://bulma.io/)0 line height of Font Awesome icons.
 * [Gunicorn](https://gunicorn.org/)- server to run Django on Heroku.
+* [Mail Chimp](https://mailchimp.com/)- Sign up form and emails.
 
 
 # 8. Testing  
