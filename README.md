@@ -225,9 +225,6 @@ These significant bugs were found during user testing and during the build proce
 > > #### Luckily, this did not require any code to be fixed as it turns out if a British card number is entered it would only ask for a CVC rather than a ZIP code. 
 
 
-
-
-
 ## 8.3 Code Validation
 [Code Validation](codevalidation.md)
 
