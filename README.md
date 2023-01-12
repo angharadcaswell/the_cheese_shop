@@ -109,6 +109,8 @@ Similar to the colour palette and logo I wanted to keep thing simple with the fo
 3. FAQ
 4. About us page
 5. Cheese Blog
+6. Map of where the cheese are made
+7. Link cheeses with condiments 
 
 # 6. Marketing & SEO
 
@@ -182,11 +184,17 @@ If this was to be turned into a real world site, I would register the site map t
 
 
 # 8. Testing  
-The site was tested in Gitpod terminal and Heroku by users and myself on all browsers. The site was also peer reviewed by the Code Institute community. 
+The site was tested in Gitpod terminal and Heroku by users and myself on all browsers. The site was also peer reviewed by the Code Institute community. I also tested each link to ensure it worked correctly.
 
 ## 8.1 User testing:
-I tested the deployed site with several users. I asked each user to complete the following task, tell me how they did it and score it out of 5 for 
+I tested the deployed site with several users. I asked each user to complete the following task and rate it out of 5 for how easy found it. I also asked them to explain how they got to the end point and tell me any frustrations they experienced. 
 
+1. Create profile, log in and add personal info 
+2. Find information on cheese knife for sale
+3. Add cheese knife to your basket
+4. Search for item of your choice and add to your basket with a quantity of 2
+5. Use the filters to find the most expense item and add to your basket to get your delivery for free (your total needs to be over £50!)
+6. Checkout your shopping bag (use 4242 4242 4242 4242 for the card number and any CVC and date)
 
 [User Stories Tested](userstories.md)
 
@@ -201,6 +209,9 @@ These significant bugs were found during user testing and during the build proce
 
 ### 3. When I tested the deployed site on adding a product as an admin user, I recieved an error message.
 > >#### **FIX**:  *Back in development, Django gave me an error that "product" did not exist. I needed to assign the variable "product" in the view.*
+
+### 4. A user pointed out that the burger menu in the mobile view was a dark colour and not easy to spot. 
+> > #### **FIX**: *This was fixed by adding the nav-dark class to the element.*
 
 
 
@@ -323,7 +334,6 @@ In GitPod:
 # 10. Credits
 - Pxhere: Free images [free image website](https://pxhere.com)
 - Stackoverflow: [Stackoverflow](https://stackoverflow.com/)
-- Wikipedia: content for product description [Wikipedia](https://en.wikipedia.org/wiki/Main_Page)
 - Code Institute: This project was based on the Boutique Ado project. [Code Institute](https://codeinstitute.net/)
 
 
