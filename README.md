@@ -116,7 +116,30 @@ Similar to the colour palette and logo I wanted to keep thing simple with the fo
 3. I then narrowed it down by assessing their relevance, authoritativeness and keyword volume. I used [word tracker](https://www.wordtracker.com/) and Google search to make these assesments. Ideally I was looking for words and phrases with high enough volume but low enough competition. 
 ![google search](/readmeimages/googlecheese.png)
 ![word tracker](/readmeimages/wordtracker.png)
-### Low
+
+### Short-tail Keywords:
+- Cheese Shop
+- Cheese Delivery
+- British Cheese
+- Soft Cheese
+- Hard Cheese
+- Cheese gifts
+- Cheese lover
+- Cheese Board
+- Cheese Knife
+- Cheese Condiments
+- Chutney
+- Cheese Crackers
+- Cheese Platter
+
+### Long-tail Keywords:
+- buy british cheese
+- cheese delivery service
+- soft cheeses for cheese board
+- hard cheeses for cheese board
+- cheese for cheese board
+- cheese gifts for cheese lovers
+- cheese gifts delivered
 
 
 # 7. Technologies used 
