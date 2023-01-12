@@ -213,6 +213,10 @@ These significant bugs were found during user testing and during the build proce
 ### 4. A user pointed out that the burger menu in the mobile view was a dark colour and not easy to spot. 
 > > #### **FIX**: *This was fixed by adding the nav-dark class to the element.*
 
+### 5. I recieved feedback that the postcode box on the payment form does not accept a UK postcode because this expects to be able to add a postcode that includes letters and numbers. 
+> > #### Luckily, this did not require any code to be fixed as it turns out if an British card number is entered it would only ask for a CVC rather than a ZIP code. 
+
+
 
 
 
