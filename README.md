@@ -156,7 +156,11 @@ A Robots.txt file was also created to tell search engines which files they shoul
 
 If this was to be turned into a real world site, I would register the site map to Google Search Console. 
 
+## Social Media 
+Facebook is the most used social media app and is free, so it was a great choice to gain a greater reach for The Cheese Shop. 
 
+![facebook page](/readmeimages/cheesefacebook.png)
+![first post](/readmeimages/first_post.png)
 
 
 
@@ -214,7 +218,7 @@ These significant bugs were found during user testing and during the build proce
 > > #### **FIX**: *This was fixed by adding the nav-dark class to the element.*
 
 ### 5. I recieved feedback that the postcode box on the payment form does not accept a UK postcode because this expects to be able to add a postcode that includes letters and numbers. 
-> > #### Luckily, this did not require any code to be fixed as it turns out if an British card number is entered it would only ask for a CVC rather than a ZIP code. 
+> > #### Luckily, this did not require any code to be fixed as it turns out if a British card number is entered it would only ask for a CVC rather than a ZIP code. 
 
 
 
