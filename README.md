@@ -110,9 +110,13 @@ Similar to the colour palette and logo I wanted to keep thing simple with the fo
 # 6. Marketing & SEO
 
 ## 6.1 Keyword Research:
-I started this process by thinking about the general topics of this site. I then compiled a list of keywords and assessed their relevance, authoritativeness and keyword volume. I used [word tracker](https://www.wordtracker.com/) and Google search to make these assesments.
+1. I started this process by thinking about the general topics of this site. I came up with Cheese, Cheese Gifts and Cheese Accessories. 
+2. I then brainstormed keywords and phrases that related to these topics. Here is an example of some of the words:
+![keyword brainstorm](/readmeimages/keyword_topics.png)
+3. I then narrowed it down by assessing their relevance, authoritativeness and keyword volume. I used [word tracker](https://www.wordtracker.com/) and Google search to make these assesments. Ideally I was looking for words and phrases with high enough volume but low enough competition. 
+![google search](/readmeimages/googlecheese.png)
 
-
+### Low
 
 
 # 7. Technologies used 
