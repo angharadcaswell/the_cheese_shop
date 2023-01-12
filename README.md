@@ -105,7 +105,10 @@ Similar to the colour palette and logo I wanted to keep thing simple with the fo
 ## 5.2 Features to implement:
 
 1. Rate cheeses functionality 
-2. Social logins
+2. Social logins]
+3. FAQ
+4. About us page
+5. Cheese Blog
 
 # 6. Marketing & SEO
 
@@ -140,6 +143,11 @@ Similar to the colour palette and logo I wanted to keep thing simple with the fo
 - cheese for cheese board
 - cheese gifts for cheese lovers
 - cheese gifts delivered
+
+## 6.2 SEO:
+I used my key words to boost my search engine ranking by including them in the content, headers and meta tags.
+
+
 
 
 # 7. Technologies used 

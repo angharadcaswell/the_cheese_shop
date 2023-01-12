@@ -8,7 +8,7 @@
                 <a href="{% url 'products' %}?sort=price&direction=asc" class="dropdown-item">By Price</a>
                 <a href="{% url 'products' %}?sort=rating&direction=dsc" class="dropdown-item ">By Rating</a>
                 <a href="{% url 'products' %}?sort=category&direction=asc" class="dropdown-item ">By Category</a>
-                <a href="{% url 'products' %}" class="dropdown-item">All Products</a>
+                <a href="{% url 'products' %}" class="dropdown-item">All Cheese Products</a>
             </div>
         </li>
 
@@ -17,8 +17,8 @@
                 Cheese
             </a>
             <div class="dropdown-menu border-0" aria-labelledby="cheese-link">
-                <a href="{% url 'products' %}?category=soft_cheese" class="dropdown-item">Soft</a>
-                <a href="{% url 'products' %}?category=hard_cheese" class="dropdown-item">Hard</a>
+                <a href="{% url 'products' %}?category=soft_cheese" class="dropdown-item">Soft Cheese</a>
+                <a href="{% url 'products' %}?category=hard_cheese" class="dropdown-item">Hard Cheese</a>
                 <a href="{% url 'products' %}?category=soft_cheese,hard_cheese" class="dropdown-item">All Cheeses</a>
             </div>
         </li>

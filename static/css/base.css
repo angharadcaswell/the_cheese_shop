@@ -8,6 +8,7 @@ body {
     height: calc(100vh - 164px);
     color: #FFF;
     font-family: 'Inter';
+    
 }
 
 #topnav, .navbar {
@@ -209,6 +210,8 @@ a.category-badge > span.badge:hover {
     overflow-x: hidden;
     overflow-y: auto;
 }
+
+
 
 /* -------------------------------- Media Queries */
 
