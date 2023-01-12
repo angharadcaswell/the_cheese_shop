@@ -211,7 +211,13 @@ a.category-badge > span.badge:hover {
     overflow-y: auto;
 }
 
-
+.footer {
+    color: white;
+    background-color: #361D2E;
+    padding: 20px 30px 20px 30px;
+    margin-top: 20px;
+    /* width: 100%; */
+}
 
 /* -------------------------------- Media Queries */
 

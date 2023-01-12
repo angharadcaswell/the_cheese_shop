@@ -145,7 +145,17 @@ Similar to the colour palette and logo I wanted to keep thing simple with the fo
 - cheese gifts delivered
 
 ## 6.2 SEO:
-I used my key words to boost my search engine ranking by including them in the content, headers and meta tags.
+I used my key words to boost my search engine ranking by including them in the site content, image alt descriptions, headers and meta tags.
+
+## XML Sitemap 
+I created a sitemap for The Cheese Shop using [XML-Sitemaps.com](https://www.xml-sitemaps.com/details-the-cheese-shop-1.herokuapp.com-498a5957a.html). This creates a list of all the urls on the site that can be accessed without loggin in. 
+
+A Robots.txt file was also created to tell search engines which files they should not crawl through. 
+
+If this was to be turned into a real world site, I would register the site map to Google Search Console. 
+
+
+
 
 
 
