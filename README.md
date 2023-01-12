@@ -115,7 +115,7 @@ Similar to the colour palette and logo I wanted to keep thing simple with the fo
 ![keyword brainstorm](/readmeimages/keyword_topics.png)
 3. I then narrowed it down by assessing their relevance, authoritativeness and keyword volume. I used [word tracker](https://www.wordtracker.com/) and Google search to make these assesments. Ideally I was looking for words and phrases with high enough volume but low enough competition. 
 ![google search](/readmeimages/googlecheese.png)
-
+![word tracker](/readmeimages/wordtracker.png)
 ### Low
 
 
