@@ -228,11 +228,6 @@ These significant bugs were found during user testing and during the build proce
 ## 8.3 Code Validation
 [Code Validation](codevalidation.md)
 
-## 8.4 Performance testing
-[Lighthouse](performance.md)
-
-
-
 
 # 9. Deployment
 

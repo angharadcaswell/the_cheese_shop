@@ -4,7 +4,8 @@
 
 # Python
 ## [PEP8 Python Validator](http://pep8online.com/) to check all Python content files:
-
+![python pages](/readmeimages/python_val.png)
+I aslo used "python3 -m flake8" to check for problems in the terminal. 
 # CSS
 ## [CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) to check all CSS content files:
 
